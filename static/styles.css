@@ -1,0 +1,30 @@
+body{
+    color: rgb(62, 119, 121);
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main{
+    margin: 50px;
+    flex: 1 0 auto;
+}
+
+.card-content{
+    color: seashell;
+    background-color: rgb(62, 119, 121);
+}
+
+.bloc p{
+    color: seashell;
+    min-width: 75%;
+    min-height: 100px;
+    background-color: rgb(62, 119, 121);
+}
+
+.collection collection-item{
+    background-color: rgb(62, 119, 121);
+}
+
+
+
